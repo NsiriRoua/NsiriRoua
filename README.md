@@ -60,7 +60,6 @@ Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/NsiriRoua?tab=repositories)
-[![C#](https://img.shields.io/badge/-Csharp-000?&logo=c-sharp)](https://github.com/NsiriRoua?tab=repositories)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 [![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)](https://github.com/NsiriRoua?tab=repositories)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)](https://github.com/NsiriRoua?tab=repositories)
