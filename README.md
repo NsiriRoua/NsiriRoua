@@ -16,18 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/mohamed-aziz-belaweid/">
-  <img align="left" alt="Aziz's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/aziz69">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.facebook.com/aziz.belaweid/">
-  <img align="left" alt="Aziz's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
-<br />
-<br />
 
 Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NsiriRoua](https://github.com/NsiriRoua), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/aziz69)
 
