@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NsiriRoua](https://github.com/NsiriRoua), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/aziz69)
+Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NsiriRoua](https://github.com/NsiriRoua)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
