@@ -80,14 +80,12 @@ Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 
 
 
 
-![Roua's github stats](https://github-readme-stats.vercel.app/api?username&NsiriRouashow_icons=true&hide_border=true&theme=dark)
-
 
 ### &nbsp;Reach Me Via
 
 <a href="mailto:rouansiri98@gmail.com"><img src="https://img.shields.io/badge/-rouansiri98@gmail.com-000?&logo=Gmail"/></a>
-<a href="https://www.facebook.com/ghazixx"><img src="https://img.shields.io/badge/-@ghazixx-000?&logo=Facebook"/></a>
-<a href="https://www.linkedin.com/in/roua-nsiri-72749b198/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-000?&logo=Linkedin"/></a>
+
+<a href="https://www.linkedin.com/in/roua-nsiri-72749b198/"><img src="https://img.shields.io/badge/-Roua%20Nsiri-000?&logo=Linkedin"/></a>
 
 
 ⭐️ From [NsiriRoua](https://github.com/NsiriRoua)
