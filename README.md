@@ -25,7 +25,7 @@ Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Computer Vision, Docker ; 
-- 🤔 My interests are with Machine Learning, Computer vision, Reinforcement Learning, Deploying models, Backend Developemen etc..;
+- 🤔 My interests are with Machine Learning, Computer vision, Deploying models, Backend Developemen etc..;
 - 💼 I’m pursuing a Bachelor's degree in *Telecommunication Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rouansiri98@gmail.com to reach me.
