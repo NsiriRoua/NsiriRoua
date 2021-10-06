@@ -65,7 +65,7 @@ Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://github.com/NsiriRoua?tab=repositories)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://github.com/NsiriRoua?tab=repositories)
 
-
+<a href="https://app.daily.dev/RouaNsiri"><img src="https://api.daily.dev/devcards/87a42075108e42bdad86dfd985d0e12b.png?r=91e" width="400" alt="Roua Nsiri's Dev Card"/></a>
 
 
 ### &nbsp;Reach Me Via
@@ -76,5 +76,5 @@ Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 
 
 
 ⭐️ From [NsiriRoua](https://github.com/NsiriRoua)
-<a href="https://app.daily.dev/RouaNsiri"><img src="https://api.daily.dev/devcards/87a42075108e42bdad86dfd985d0e12b.png?r=91e" width="400" alt="Roua Nsiri's Dev Card"/></a>
-<a href="https://app.daily.dev/RouaNsiri"><img src="https://api.daily.dev/devcards/87a42075108e42bdad86dfd985d0e12b.png?r=91e" width="400" alt="Roua Nsiri's Dev Card"/></a>
+
+
