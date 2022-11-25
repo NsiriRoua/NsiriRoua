@@ -71,7 +71,7 @@ Passau, Faculty of Computer Science and Mathematics  🚀 from Tunisia, currentl
 
 ### &nbsp;Reach Me Via
 
-<a href="mailto:rouansiri98@gmail.com"><img src="https://img.shields.io/badge/-rouansiri98@gmail.com-000?&logo=Gmail"/></a>
+<a href="mailto:roua.nsiri@supcom.tn"><img src="https://img.shields.io/badge/-rouansiri98@gmail.com-000?&logo=Gmail"/></a>
 
 <a href="https://www.linkedin.com/in/roua-nsiri-72749b198/"><img src="https://img.shields.io/badge/-Roua%20Nsiri-000?&logo=Linkedin"/></a>
 
