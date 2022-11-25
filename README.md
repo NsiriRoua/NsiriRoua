@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 
 
 
-Hi there, I'm **Roua Nsiri**, a **Telecommunication engineering student**  🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NsiriRoua](https://github.com/NsiriRoua)
+Hi there, I'm **Roua Nsiri**, a **Telecommunication engineer** and  a student of **MSc Artificial Intelligence Engineering** at the University of
+Passau, Faculty of Computer Science and Mathematics  🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NsiriRoua](https://github.com/NsiriRoua)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Computer Vision, Docker ; 
+- 🌱 I’m currently Zindi University Amabassador, AI/ML Enginner, ML Instructor, DL, Computer Vision and Visual Computing Enthousiast ; 
 - 🤔 My interests are with Machine Learning, Computer vision, Deploying models, Backend Developemen etc..;
-- 💼 I’m pursuing a Bachelor's degree in *Telecommunication Engineering;
+- 💼 I’m pursuing a Master's degree in *AI Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rouansiri98@gmail.com to reach me.
 
