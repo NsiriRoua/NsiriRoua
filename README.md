@@ -25,7 +25,7 @@ Passau, Faculty of Computer Science and Mathematics  🚀 from Tunisia, currentl
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently Zindi University Amabassador, AI/ML Enginner, ML Instructor, DL, Computer Vision and Visual Computing Enthousiast ; 
+- 🌱 I’m currently Zindi Tunisia University Amabassador, AI/ML Enginner, ML Instructor, DL, Computer Vision and Visual Computing Enthousiast ; 
 - 🤔 My interests are with Machine Learning, Computer vision, Deploying models, Backend Developemen etc..;
 - 💼 I’m pursuing a Master's degree in *AI Engineering;
 - 💬 Ask me about anything, I am happy to help;
